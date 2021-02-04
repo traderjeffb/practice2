@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "So/HCHoGf8m4t+2aJ+jT5zlmql+/dMtfEHOLeSNPP9FsfyPsodJTHbp2ZjDmn3CzF0BftlhQdCYXEoy1OZUveA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ElevenNote3.WebMVC\\ElevenNote.Services\\ElevenNote.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
