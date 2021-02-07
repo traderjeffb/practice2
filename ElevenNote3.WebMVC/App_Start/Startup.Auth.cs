@@ -6,6 +6,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using ElevenNote3.WebMVC.Models;
+using ElevenNote3.WebMVC.Data;
 
 namespace ElevenNote3.WebMVC
 {

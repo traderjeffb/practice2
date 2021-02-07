@@ -1,0 +1,9 @@
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.deps.json
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.dll
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.csprojAssemblyReference.cache
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.AssemblyInfoInputs.cache
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.AssemblyInfo.cs
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\bin\Debug\netstandard2.0\ElevenNote.Data.pdb
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.dll
+C:\Projects\ElevenNote3.WebMVC\ElevenNote.Data\obj\Debug\netstandard2.0\ElevenNote.Data.pdb
